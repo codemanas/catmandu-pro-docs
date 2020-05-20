@@ -1,0 +1,21 @@
+site_name: My Docs
+dev_addr: 172.16.238.10:8000
+theme: readthedocs
+nav:
+  - Getting started: index.md
+  - 'installation.md'
+  - Theme License: license.md
+  - Theme Setup: theme-setup.md
+  - Home Page Setup: theme-options/homepage-setup.md
+  - Theme Cusomizations:
+    - Global: theme-options/global.md
+    - Header: theme-options/header.md
+    - Blog: theme-options/blog.md
+    - Breadcrumb: theme-options/breadcrumb.md
+    - Homepage: theme-options/homepage.md
+    - Sidebar: theme-options/sidebar.md
+    - Footer: theme-options/footer.md
+    - Menus: theme-options/menus.md
+    - Widgets: theme-options/widgets.md
+    - Homepage settings: theme-options/homepage-settings.md
+  - FAQ: faq.md
